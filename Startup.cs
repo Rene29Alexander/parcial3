@@ -40,11 +40,11 @@ namespace WebAPI
                      Title = " webAPI", Version = "v1"
                 });
 
-                //Localizar archivo xml generado por ASP.NET
+              
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
 
-                //Le decimos a swagger que utilice los comentarios del archivo xml
+        
                 c.IncludeXmlComments(xmlPath, includeControllerXmlComments: true);
                 
             });
