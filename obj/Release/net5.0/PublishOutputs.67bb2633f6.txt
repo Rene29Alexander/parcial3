@@ -1,0 +1,17 @@
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\WebAPI.exe
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\WebAPI.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\WebAPI.runtimeconfig.json
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\WebAPI.pdb
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Npgsql.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\WebAPI.xml
+C:\Users\Pc\Desktop\PARCIAL3-ismael\bin\Release\net5.0\publish\WebAPI.deps.json
